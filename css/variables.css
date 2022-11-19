@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Lobster&family=Playfair+Display&family=Teko:wght@300&display=swap');
+
+:root {
+    --first-color: yellow;
+    --menu-color: gray;
+    --second-color: orange;
+    --init-color: black;
+    --content-color: white;
+    
+    
+    
+    
+    
+    
+    --body-font: 'Anton';
+    --second-font:  'Teko';
+    --third-font: 'Playfair Display';
+    --cursive-font: 'Lobster';
+}
